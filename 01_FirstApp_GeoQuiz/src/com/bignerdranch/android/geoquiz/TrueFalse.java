@@ -1,5 +1,6 @@
 package com.bignerdranch.android.geoquiz;
 
+//Comentario para probar Git
 public class TrueFalse {
 
 	private int mQuestion;
